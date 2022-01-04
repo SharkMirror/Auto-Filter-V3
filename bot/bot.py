@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @WhiteDevilOp999
+# (c) @S08112K06
 
 from pyrogram import Client, __version__
 
